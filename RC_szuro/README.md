@@ -6,19 +6,9 @@ Aluláteresztő RC szűrő kapcs.
 
 Adatok:
 
-R
-=
-5
-Ó
-Ó
-h
-m
+R=5ÓÓhm
 
-C
-=
-4
-te
-F
+C=4teF
 
 |f[Hz]|Uki[V]|
 |-----|------|
