@@ -4,11 +4,13 @@ Szül.:2006.08.06
 
 Aluláteresztő RC szűrő kapcs.
 
-Adatok:
+*Adatok:*
 
-R=5ÓÓhm
+$R=5O Ohm$
 
-C=4teF
+$C=4 uF$
+
+*Mért értékek:*
 
 |f[Hz]|Uki[V]|
 |-----|------|
@@ -22,8 +24,12 @@ C=4teF
 |19800|0,17|
 |20000|0,15|
 
-Határfrekvencia:
-$fh=1(2* ∗Pén* ∗R* ∗C))$
+*Határfrekvencia:*
+
+$fh= {1 \over (2 * Pi * R * C)} $   
+$fh= {1 \over (2 * Pi * 5R * 4uF)} $  
+$fh=7957.7471Hz$
+
 ---
 <img width="754" height="466" alt="image" src="https://github.com/user-attachments/assets/9d102ea8-4fab-44f7-aea9-78e58100171a" />
 
