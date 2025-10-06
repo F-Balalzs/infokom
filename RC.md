@@ -12,5 +12,7 @@ RC szuro
 |19800|0,17|
 |20000|0,15|
 
-A mérés táblázata:
 <img width="754" height="466" alt="image" src="https://github.com/user-attachments/assets/9d102ea8-4fab-44f7-aea9-78e58100171a" />
+
+
+<img width="773" height="366" alt="image" src="https://github.com/user-attachments/assets/11c683f1-e855-44bf-bd6b-15c1eff0c422" />
