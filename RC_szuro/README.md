@@ -2,6 +2,24 @@ RC szuro
 ---
 Szül.:2006.08.06
 
+Aluláteresztő RC szűrő kapcs.
+
+Adatok:
+
+R
+=
+5
+Ó
+Ó
+h
+m
+
+C
+=
+4
+te
+F
+
 |f[Hz]|Uki[V]|
 |-----|------|
 | 154 |   1  |
