@@ -6,9 +6,9 @@ Aluláteresztő RC szűrő kapcs.
 
 *Adatok:*
 
-$R=5O Ohm$
+$R=8O Ohm$
 
-$C=4 uF$
+$C=6 uF$
 
 *Mért értékek:*
 
@@ -31,6 +31,8 @@ $fh= {1 \over (2 * Pi * 5R * 4uF)} $
 $fh=7957.7471Hz$
 
 ---
+*Grafikon:*
+
 <img width="754" height="466" alt="image" src="https://github.com/user-attachments/assets/9d102ea8-4fab-44f7-aea9-78e58100171a" />
 
 <img width="773" height="366" alt="image" src="https://github.com/user-attachments/assets/11c683f1-e855-44bf-bd6b-15c1eff0c422" />
