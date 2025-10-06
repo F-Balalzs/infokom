@@ -21,6 +21,23 @@ C=4teF
 |9900|0,3|
 |19800|0,17|
 |20000|0,15|
+
+Határfrekvencia:
+$f
+h
+=
+1
+(
+2
+* ∗
+P
+én
+* ∗
+R
+* ∗
+C
+)
+$
 ---
 <img width="754" height="466" alt="image" src="https://github.com/user-attachments/assets/9d102ea8-4fab-44f7-aea9-78e58100171a" />
 
