@@ -6,7 +6,7 @@ Aluláteresztő RC szűrő kapcs.
 
 *Adatok:*
 
-$R=8O Ohm$
+$R=8 Ohm$
 
 $C=6 uF$
 
