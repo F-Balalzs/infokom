@@ -27,7 +27,7 @@ $C=6 uF$
 *Határfrekvencia:*
 
 $fh= {1 \over (2 * Pi * R * C)} $   
-$fh= {1 \over (2 * Pi * 5R * 4uF)} $  
+$fh= {1 \over (2 * Pi * 8R * 6uF)} $  
 $fh=9900Hz$
 
 ---
