@@ -36,6 +36,7 @@ $fh=9900Hz$
 
 <img width="754" height="466" alt="image" src="https://github.com/user-attachments/assets/9d102ea8-4fab-44f7-aea9-78e58100171a" />
 
+---
 
 Felüláteresztő RC szűrő kapcs.
 <img width="780" height="451" alt="image" src="https://github.com/user-attachments/assets/a83a46fc-af9a-4989-8db0-83ce84435de3" />
