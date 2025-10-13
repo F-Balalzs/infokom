@@ -40,8 +40,26 @@ $fh=9900Hz$
 Felüláteresztő RC szűrő kapcs.
 <img width="780" height="451" alt="image" src="https://github.com/user-attachments/assets/a83a46fc-af9a-4989-8db0-83ce84435de3" />
 
+
+
 *Adatok:*
 
 $R=6 Ohm$
 
-$C=8 uF$
+$C8 uF$
+
+*Mért értékek:*
+
+|f[Hz]|Uki[V]|
+|-----|------|
+| 500 |   0,12  |
+| 1000 |  0,28  |
+|2000|0,5|
+|3300|0,7|
+|9900|0,95|
+|11000|0,97|
+|15000|0,99|
+
+*Grafikon:*
+
+<img width="751" height="470" alt="image" src="https://github.com/user-attachments/assets/c84ba8f3-e645-4143-bb7d-3bc78851e860" />
