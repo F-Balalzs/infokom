@@ -2,7 +2,7 @@ RC szuro
 ---
 Szül.:2006.08.06
 
-##Aluláteresztő RC szűrő kapcs.
+Aluláteresztő RC szűrő kapcs.
 
 
 <img width="773" height="366" alt="image" src="https://github.com/user-attachments/assets/11c683f1-e855-44bf-bd6b-15c1eff0c422" />
@@ -40,7 +40,7 @@ $fh=9900Hz$
 
 ---
 
-##Felüláteresztő RC szűrő kapcs.
+Felüláteresztő RC szűrő kapcs.
 
 
 <img width="780" height="451" alt="image" src="https://github.com/user-attachments/assets/a83a46fc-af9a-4989-8db0-83ce84435de3" />
