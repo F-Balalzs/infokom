@@ -3,6 +3,7 @@ RC szuro
 Szül.:2006.08.06
 
 Aluláteresztő RC szűrő kapcs.
+<img width="773" height="366" alt="image" src="https://github.com/user-attachments/assets/11c683f1-e855-44bf-bd6b-15c1eff0c422" />
 
 *Adatok:*
 
@@ -35,4 +36,13 @@ $fh=9900Hz$
 
 <img width="754" height="466" alt="image" src="https://github.com/user-attachments/assets/9d102ea8-4fab-44f7-aea9-78e58100171a" />
 
-<img width="773" height="366" alt="image" src="https://github.com/user-attachments/assets/11c683f1-e855-44bf-bd6b-15c1eff0c422" />
+
+Felüláteresztő RC szűrő kapcs.
+
+<img width="871" height="537" alt="image" src="https://github.com/user-attachments/assets/446199cd-d280-4ffd-945f-5d23568aa224" />
+
+*Adatok:*
+
+$R=6 Ohm$
+
+$C=8 uF$
