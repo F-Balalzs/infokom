@@ -61,6 +61,7 @@ $C8 uF$
 |11000|0,97|
 |15000|0,99|
 
+---
 *Grafikon:*
 
 <img width="751" height="470" alt="image" src="https://github.com/user-attachments/assets/c84ba8f3-e645-4143-bb7d-3bc78851e860" />
