@@ -36,11 +36,11 @@ A mérési pont a **V3 LABOR**, ahol a DVB-T adások vételének minőségét é
 |---------------------|-------|
 | Adó frekvencia       | 634 MHz |
 | Sávszélesség         | 8MHz |
-| Moduláció típusa     | 64-QAM, 8K, 1/4 |
-| Jelerősség (RSSI)    | 63.8 dBu |
-| MER                  | 29.0 dB |
-| Noise Margin         | 12.0 |
-| Hiba nélkül vett adás időtartama | 200 sec |   
+| Moduláció típusa     | DVBT / QPSK / 8K, 1/32 |
+| Jelerősség (RSSI)    | 46 dBu |
+| MER                  | 29.1 dB |
+| Noise Margin         | 25.3 |
+| Hiba nélkül vett adás időtartama | 129 sec |   
 
 
 <details>   
